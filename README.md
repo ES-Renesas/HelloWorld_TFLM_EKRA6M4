@@ -20,7 +20,7 @@ To run the project, you will need EKRA6M4 board and USB to TTL UART Converter Ca
 - In root directory, browse to where you saved the cloned/downloaded repository and select the repository(folder)
  - The project will be automatically ticked, press Finish
  - Press build (Hammer symbol), to start building the project, it will take a few minutes, so please wait.
- -  Right click on to project, Debug configurator, Choose your projects, Choose your device R7A6M4F, Choose debugger (J-link), wait for project to be flashed.
+ -  Right click on to project, Debug as, Renesas GDB Hardware Debugging, Choose your projects, Choose your device R7A6M4F, Choose debugger (J-link), wait for project to be flashed.
  - Then press switch perspective, followed by, resume button (F8), three times, and your code will be executing. 
  - Open Cool Term and choose the correct COM to which USB to TTL UART is connected to. 
  - Once you press connect, it should start showing x and y results. Hence, your model and program has been successfully flashed. 
