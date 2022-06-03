@@ -14,8 +14,8 @@ To run the project, you will need EKRA6M4 board and USB to TTL UART Converter Ca
 ## Running the program
 
 - Clone/download this repository
-- Open e<sub>2</sub> studio
--Choose a directory as a workplace and Launch 
+- Open e<sup>2</sup> studio
+- Choose a directory as a workplace and Launch 
 - Import Existing Project
 - In root directory, browse to where you saved the cloned/downloaded repository and select the repository(folder)
  - The project will be automatically ticked, press Finish
