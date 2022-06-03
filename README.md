@@ -26,3 +26,4 @@ To run the project, you will need EKRA6M4 board and USB to TTL UART Converter Ca
  - Once you press connect, it should start showing x and y results. Hence, your model and program has been successfully flashed. 
   
 ![Screenshot](Endresult.PNG)
+![Screenshot](Ra6m4.jpg)
