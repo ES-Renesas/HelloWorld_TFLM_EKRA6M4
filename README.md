@@ -11,7 +11,7 @@ The project has been developed and tested on e<sup>2</sup> studio with flexible 
 **CoolTerm** an open source terminal emulator that can be downloaded from [here](http://freeware.the-meiers.org/). 
 To run the project, you will need EKRA6M4 board and USB to TTL UART Converter Cable.
 
-## Running the program
+## Running the program (A video step by step is available in the repository)
 
 - Clone/download this repository
 - Open e<sup>2</sup> studio
