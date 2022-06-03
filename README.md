@@ -4,5 +4,5 @@ The following repository provides the code used to port [Tensorflow Lite for Mic
 
 The code executes the [Hello World project](https://github.com/tensorflow/tflite-micro/tree/main/tensorflow/lite/micro/examples/hello_world) and outputs the results through UART onto a serial monitor using TFLM reference kernels. 
 
-The project has been developed and tested with e2 studio with flexible software package 3.4, Renesas's tool package that enables easier and faster method to develop the application code.
+The project has been developed and tested on e<sup>2</sup> studio with flexible software package 3.4, Renesas's tool package that enables easier and faster method to develop the application code.
 
